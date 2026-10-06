@@ -69,23 +69,23 @@ I also worked on connecting the frontend with Supabase and implementing function
 
 ### Home Page
 
-_Add screenshot here_
+![Home](./screenshots/home.png)
 
 ### Browse Vehicles
 
-_Add screenshot here_
+![Browse Cars](./screenshots/browse-cars.png)
 
 ### Vehicle Details
 
-_Add screenshot here_
+![Car Details](./screenshots/car-details.png)
 
 ### Booking
 
-_Add screenshot here_
+![Booking](./screenshots/booking.png)
 
 ### Rental Management
 
-_Add screenshot here_
+![My Rentals](./screenshots/my-rentals.png)
 
 ## 🚀 Getting Started
 
@@ -130,7 +130,7 @@ http://localhost:3000
 
 ## 🌐 Live Demo
 
-_Add live demo link here_
+https://rentease-psi-gray.vercel.app/
 
 ## 📚 What I Learned
 
