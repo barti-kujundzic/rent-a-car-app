@@ -33,9 +33,6 @@ The application allows users to browse available vehicles, view detailed informa
 ### Content Management
 - Contentful
 
-### Email
-- Resend
-
 ### Deployment & Tools
 - Vercel
 - Git
